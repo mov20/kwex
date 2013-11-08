@@ -1,0 +1,16 @@
+1. read csv. 
+2. enumerate words into dictionay. Give each word unique # w_n.
+3. 
+
+
+=== Tools ===
+python lib for extracting tokens NTLK http://nltk.org/
+
+python Machine learning http://scikit-learn.org/stable/
+
+pig apache - HADOOP data analysis
+
+=== Reading ===
+machine learning example of winning contest
+step-by-step demo
+http://fastml.com/a-bag-of-words-and-a-nice-little-network/
